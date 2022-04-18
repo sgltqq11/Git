@@ -1,5 +1,6 @@
 package com.sgl.git;
 
+import java.text.SimpleDateFormat;
 import java.time.ZonedDateTime;
 import java.util.Date;
 
@@ -10,5 +11,9 @@ public class GitTest {
 
         Date date = new Date();
         System.out.println(date);
+
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat();
+        simpleDateFormat.format(date);
+        System.out.println(simpleDateFormat);
     }
 }
