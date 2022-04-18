@@ -25,6 +25,8 @@ public class GitTest {
         System.out.println("push Git");
         
         System.out.println("更新了");
+
+        System.out.println("git-ssh");
     }
 
 }
