@@ -23,6 +23,8 @@ public class GitTest {
         System.out.println("hello hot-fix");
 
         System.out.println("push Git");
+        
+        System.out.println("更新了");
     }
 
 }
