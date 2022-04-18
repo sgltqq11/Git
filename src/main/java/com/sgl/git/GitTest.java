@@ -17,5 +17,7 @@ public class GitTest {
         System.out.println(simpleDateFormat);
 
         System.out.println("git by hot-fix");
+
+        System.out.println("hello hot-fix");
     }
 }
